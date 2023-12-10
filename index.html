@@ -12,5 +12,62 @@
     />
     <link rel="stylesheet" href="assets/css/style.css" />
   </head>
-  <body></body>
+  <body>
+    <body>
+    
+        <div class="container mt-5">
+            <h1 class="mb-4">CVD Interactive Predictor</h1>
+    
+            <form id="cvdForm">
+                <div class="form-group">
+                    <label for="age">Age:</label>
+                    <input type="number" class="form-control" id="age" name="age" required>
+                </div>
+    
+                <div class="form-group">
+                    <label for="gender">Gender:</label>
+                    <select class="form-control" id="gender" name="gender" required>
+                        <option value="male">Male</option>
+                        <option value="female">Female</option>
+                    </select>
+                </div>
+    
+                <div class="form-group">
+                    <label for="totChol">Total Cholesterol Level:</label>
+                    <input type="number" class="form-control" id="totChol" name="totChol" required>
+                </div>
+    
+                <div class="form-group">
+                    <label for="bloodPressure">Blood Pressure:</label>
+                    <input type="text" class="form-control" id="bloodPressure" name="bloodPressure" required>
+                </div>
+
+                <div class="form-group">
+                    <label for="currentSmoker">Current Smoker:</label>
+                    <input type="text" class="form-control" id="currentSmoker" name="currentSmoker" required>
+                </div>
+
+                <div class="form-group">
+                    <label for="bmi">BMI:</label>
+                    <input type="text" class="form-control" id="bmi" name="bmi" required>
+                </div>
+
+                <div class="form-group">
+                    <label for="heartRate">Heart Rate:</label>
+                    <input type="text" class="form-control" id="heartRate" name="heartRate" required>
+                </div>
+
+                <div class="form-group">
+                    <label for="bmi">Glucose:</label>
+                    <input type="text" class="form-control" id="glucose" name="glucose" required>
+                </div>
+    
+                <button type="submit" class="btn btn-primary">Predict CVD Risk</button>
+            </form>
+    
+            <!-- Display prediction results here -->
+            <div id="predictionResults" class="mt-4"></div>
+        </div>
+
+  </body>
 </html>
