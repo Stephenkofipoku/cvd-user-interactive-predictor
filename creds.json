@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "cvd-project-arden",
+  "private_key_id": "de354afd8de2c074f678b2aa8ceae8d8b0649e37",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQD313+V/or4YdY4\nS1cAR00LIVgUOuRzetOE56o8NL2bzim2lsT0/9gyEUrY83PyWXR6ry2QYQx03vQN\ne1EjoUWgiWy7dnmf4G3Kk2tDNpOrnLEP8dAdtgz9TQGkn2qU0KFExpxJlcUtNKW9\nKz+umM0k3fR72ig0LUlI7/QN0JalYeP3hMLowfaxlDywXeeGfQ/y0Sxrkh6RQBi+\nFqGQoCjVsaTraTSCe1LyjtIZr9VWi0TweoCoxiMjCC6pkh8NiWB7GrXKWrtgdNUH\nE75vWyfK5XymCVJKvArPWA5Crh8Zn+IoqKfG+A0QRKtmuwjo0iQxNTN8chQKru2M\nCGHo200pAgMBAAECggEABIdl17cOyc/BUEaNxIqYXihmaEH9Z1CoAwpNvUjTwkA0\nsGkhal0aaLCcATDIQOv36bT4Tcztoz5zLqPOTXeOWdKgvJEaZ733IHGNeCqoNNTx\nZimmgndcRpCY708T99q3FhtuHz/zwyYr/3uQLVMD7XU88CDto+g0qgtmY2+ZDPie\nswX0Ou5NcuiPBmAPttYxyjBl/juYrc2iBPvqO6fdrVEY1Ke5ngM4bhOgCYoCK1w+\nDutwhC+W+9XP8f8CwMIdnBa0w/bILJgxdM5fE2PwncCbth2ajipvKPeLbUGhc3m6\nOOfAs2wVK89ng+KPuANZZN1XjvyKuPdSlKOyUrVPnwKBgQD8n4UCoUFcBfZJHGI9\nSSFZqIPmrmv8A9zGujey0nlQunJZ3UGnU3T8ZPJa4RwNEH2yKsesGjLZDXtOrNJz\nzpQ5qhSkd2MyGoUXdaS8kW3AhOtEf1uX6iCma2+2tjYMByjT76/eg1zCxVW7jV4L\nDa+LUJrH8++EQOheCBDPmYtaYwKBgQD7J530jEWdIoc76J+236IuJa6ni+iPTHGd\nyWYeKpCRv1e3YCwroXL2ze8XWvU6JxJe2TLYmr7rweaeD4A/UqkcEUckoQ7KNzB+\n+UdbnQZvDleWKNn83VhVQE9/Ww9hMFqanswkbnG5Fp0DP5LD8JmDR6juATJw2tHy\n02PEBZcqAwKBgQDoPF2yxTuotXJsU8OcQ5Z9LgXUE5UB4SsdJiP+KK+OH1jwdA7f\nHEH3pXWHRlrbR8XF/L4C4TLNhy9MbGQsQkTRniHL8FUowmiH4IbJM4iJ66e9GLfD\nOGE7nJjehzO4avyFmVs8W9by1yaxfIxv7OzsTfV8zCvskR8NEq0hrC4HsQKBgDtX\nsAXBQw2Ow/9OxrYR/yMCOlNSRn/dYxcSKDPGgOQ/Hr2wVp90hVJ1dCHDlx/HbZrF\nnTL61VOlPBVqujW8FUMRfgrUl0cGZUoLImYuIwAIln9fZapOrnluOZpw7KBdKXtR\nPBD7m5lNE4pZ8haj+dHAE9UwqTdrLKJAelktrPr7AoGBALvNTwiHWH6Gpxm/HnCy\nMSQCEVCAzPee4H+tQfvpDadDzVNrUGuxIyE8MmlVTQZ3q1SN/sa/cedteQk04NF5\nEu+ThXNAz8VUo5APqIMn+9nofaySDhzfjbXzNBcFNQLbgxUtSHI+qtIvhMEQA8x6\nzMvU0ZuWgL2g3SR57d0tzhh/\n-----END PRIVATE KEY-----\n",
+  "client_email": "cvdpredictor-58@cvd-project-arden.iam.gserviceaccount.com",
+  "client_id": "106069421955364533263",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cvdpredictor-58%40cvd-project-arden.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
