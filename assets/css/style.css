@@ -26,6 +26,7 @@ header {
 #menu ul {
     list-style: none;
     display: flex;
+    float: right;
     gap: 1rem;
     margin-top: 10px;
 }
@@ -34,12 +35,38 @@ header {
     font-size: 1rem;
 }
 
+#menu a {
+    text-decoration: none;
+    color: inherit;
+    font-size: 110%;
+}
+
+#menu a:hover {
+    border-bottom: 1px solid hsl(0, 0%, 23%);
+}
+
 .container {
     flex-grow: 1;
 }
 
+#home-outer {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
 #home-image {
-    /* Add styles for the home image */
+    #home-image {
+            height: 600px;
+            width: 100%;
+            margin-bottom: 100px;
+            background: url("")
+            background-size: cover;
+            flex: 1;
 }
 
 #cover-text {
